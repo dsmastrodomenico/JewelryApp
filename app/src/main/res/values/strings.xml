@@ -1,0 +1,54 @@
+<resources>
+    <string name="create">Create your jewel</string>
+    <string name="app_name">Jewerly Sales Application</string>
+    <string name="list">View Orders</string>
+    <string name="JewelType">Type of Jewel</string>
+    <string name="Material">Choose the material</string>
+    <string name="Stone">Choose the stone</string>
+    <string name="Mark">Mark Jewel</string>
+    <string name="TxtMark">What will be marked in the jewel?</string>
+    <string name="Order">Order Jewel</string>
+    <string name="Done">The Order has been saved!</string>
+    <string name="MarkError">The Mark can not be empty</string>
+    <string name="EmptyOrder">The Order list is empty</string>
+    <string name="M">Material: </string>
+    <string name="N">Stone: </string>
+    <string name="Price">Price:</string>
+    <string name="L">Mark in the Jewel:</string>
+    <string name="Silver">Silver</string>
+    <string name="Steel">Steel</string>
+    <string name="Gold">Gold</string>
+    <string name="Ruby">Ruby</string>
+    <string name="Emerald">Emerald</string>
+    <string name="Quartz">Quartz</string>
+    <string name="Necklace">Necklace</string>
+    <string name="Bracelet">Bracelet</string>
+
+
+
+
+    <string-array name="Menu">
+        <item>@string/create</item>
+        <item>@string/list</item>
+    </string-array>
+
+
+    <string-array name="jewelType">
+        <item>@string/Necklace</item>
+        <item>@string/Bracelet</item>
+    </string-array>
+
+
+    <string-array name="materials">
+        <item>@string/Silver</item>
+        <item>@string/Steel</item>
+        <item>@string/Gold</item>
+
+    </string-array>
+
+    <string-array name="stoles">
+        <item>@string/Ruby</item>
+        <item>@string/Emerald</item>
+        <item>@string/Quartz</item>
+    </string-array>
+</resources>

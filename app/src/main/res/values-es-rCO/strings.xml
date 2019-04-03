@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create">Crear Joyas</string>
+    <string name="app_name">Aplicación Venta de Joyeria</string>
+    <string name="list">Ver Ordenes</string>
+    <string name="JewelType">Tipo de Joya</string>
+    <string name="Material">Selecciona el Material</string>
+    <string name="Stone">Seleccciona la Piedra</string>
+    <string name="Mark">Marcar Joyeria</string>
+    <string name="TxtMark">Que se marcará en la joya?</string>
+    <string name="Order">Ordenes de Joyeria</string>
+    <string name="Done">La orden ha sido guardada!</string>
+    <string name="MarkError">La marca no debe estar vacia</string>
+    <string name="EmptyOrder">Lista de Ordenes Vacia!</string>
+    <string name="M">Material: </string>
+    <string name="N">Piedra: </string>
+    <string name="Price">Precio:</string>
+    <string name="L">Marca en la Joya:</string>
+    <string name="Silver">Plata</string>
+    <string name="Steel">Acero</string>
+    <string name="Gold">Oro</string>
+    <string name="Ruby">Ruby</string>
+    <string name="Emerald">Esmeralda</string>
+    <string name="Quartz">Cuarzo</string>
+    <string name="Necklace">Cadena</string>
+    <string name="Bracelet">Brazalete</string>
+</resources>
